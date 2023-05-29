@@ -1,0 +1,1192 @@
+[
+    {
+        "id": 1,
+        "name_uz": "Asaxiy Books kitoblari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/asaxiybooks-kitoblari",
+        "name_ru": "Asaxiy Books китоблари",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/asaxiybooks-kitoblari"
+    },
+    {
+        "id": 2,
+        "name_uz": "Badiiy adabiyotlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/badiy-adabiyot",
+        "name_ru": "Художественная литература",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/badiy-adabiyot"
+    },
+    {
+        "id": 3,
+        "name_uz": "Psixologiya va shaxsiy rivojlanish",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/psixologiya",
+        "name_ru": "Психология и саморазвитие",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/psixologiya"
+    },
+    {
+        "id": 4,
+        "name_uz": "Biznes kitoblar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/biznes",
+        "name_ru": "Книги про бизнес",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/biznes"
+    },
+    {
+        "id": 5,
+        "name_uz": "Bolalar adabiyoti",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/bolalar-adabiyoti",
+        "name_ru": "Детская литература",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/bolalar-adabiyoti"
+    },
+    {
+        "id": 6,
+        "name_uz": "Diniy adabiyotlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/dinij-adabiyot",
+        "name_ru": "Религиозная литература",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/dinij-adabiyot"
+    },
+    {
+        "id": 7,
+        "name_uz": "IT sohasiga oid kitoblar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/it-sohasiga-oid-kitoblar",
+        "name_ru": "Книги про IT",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/it-sohasiga-oid-kitoblar"
+    },
+    {
+        "id": 8,
+        "name_uz": "Rus tilidagi kitoblar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/na-russkom",
+        "name_ru": "Книги на русском",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/na-russkom"
+    },
+    {
+        "id": 9,
+        "name_uz": "Сhet tilini o'rganish",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/izuchenie-inostrannyh-yazykov",
+        "name_ru": "Изучение иностранных языков",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/izuchenie-inostrannyh-yazykov"
+    },
+    {
+        "id": 10,
+        "name_uz": "Ilm-fan va darsliklar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/ilm-fan-va-darsliklar",
+        "name_ru": "Наука и учебники",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/ilm-fan-va-darsliklar"
+    },
+    {
+        "id": 11,
+        "name_uz": "Abituriyentlar uchun adabiyotlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/abiturient",
+        "name_ru": "Для абитуриентов",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/abiturient"
+    },
+    {
+        "id": 12,
+        "name_uz": "TOP-100 ta bestseller",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/bestseller",
+        "name_ru": "TOP-100 книг бестселлеров",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/bestseller"
+    },
+    {
+        "id": 13,
+        "name_uz": "Bestseller to‘plamlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/toplam",
+        "name_ru": "Сборники бестселлеров",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/toplam"
+    },
+    {
+        "id": 14,
+        "name_uz": "Detektiv va fantastika",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/kit-da",
+        "name_ru": "Детективы и фантастика",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/kit-da"
+    },
+    {
+        "id": 15,
+        "name_uz": "Siyosat",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/siyosat",
+        "name_ru": "Политика",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/siyosat"
+    },
+    {
+        "id": 16,
+        "name_uz": "Biografiya",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/biography",
+        "name_ru": "Биография",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/biography"
+    },
+    {
+        "id": 17,
+        "name_uz": "Qayd kitobchalari va yondaftarlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/zapisnye-knizhki-i-bloknoty",
+        "name_ru": "Записные книжки и блокноты",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/zapisnye-knizhki-i-bloknoty"
+    },
+    {
+        "id": 18,
+        "name_uz": "O‘quv qurollari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/knigi/kanstovar",
+        "name_ru": "Канцтовары",
+        "detail_url_ru": "https://asaxiy.uz/product/knigi/kanstovar"
+    },
+    {
+        "id": 19,
+        "name_uz": "Telefonlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/telefony-i-gadzhety/telefony",
+        "name_ru": "Телефоны",
+        "detail_url_ru": "https://asaxiy.uz/product/telefony-i-gadzhety/telefony"
+    },
+    {
+        "id": 20,
+        "name_uz": "Planshetlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/telefony-i-gadzhety/planshety",
+        "name_ru": "Планшеты",
+        "detail_url_ru": "https://asaxiy.uz/product/telefony-i-gadzhety/planshety"
+    },
+    {
+        "id": 21,
+        "name_uz": "Smart-soatlar va brasletlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/telefony-i-gadzhety/umnye-chasy-i-braslety",
+        "name_ru": "Смарт-часы и браслеты",
+        "detail_url_ru": "https://asaxiy.uz/product/telefony-i-gadzhety/umnye-chasy-i-braslety"
+    },
+    {
+        "id": 22,
+        "name_uz": "Fakslar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/telefony-i-gadzhety/faksy",
+        "name_ru": "Факсы",
+        "detail_url_ru": "https://asaxiy.uz/product/telefony-i-gadzhety/faksy"
+    },
+    {
+        "id": 23,
+        "name_uz": "Smartfonlar va planshetlar uchun aksessuarlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/telefony-i-gadzhety/aksessuary-mobile",
+        "name_ru": "Аксессуары для смартфонов и планшетов",
+        "detail_url_ru": "https://asaxiy.uz/product/telefony-i-gadzhety/aksessuary-mobile"
+    },
+    {
+        "id": 24,
+        "name_uz": "Audiotexnika va quloqchinlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/telefony-i-gadzhety/naushniki-i-auditexniki",
+        "name_ru": "Наушники и аудиотехника",
+        "detail_url_ru": "https://asaxiy.uz/product/telefony-i-gadzhety/naushniki-i-auditexniki"
+    },
+    {
+        "id": 25,
+        "name_uz": "Elektron kitoblar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/telefony-i-gadzhety/elektronnie-knigi",
+        "name_ru": "Электронные книги",
+        "detail_url_ru": "https://asaxiy.uz/product/telefony-i-gadzhety/elektronnie-knigi"
+    },
+    {
+        "id": 26,
+        "name_uz": "Radiostansiyalar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/telefony-i-gadzhety/radiostancii",
+        "name_ru": "Радиостанции",
+        "detail_url_ru": "https://asaxiy.uz/product/telefony-i-gadzhety/radiostancii"
+    },
+    {
+        "id": 27,
+        "name_uz": "Virtual reallik ko‘zoynaklari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/telefony-i-gadzhety/ochki-virtualnoy-realnosti",
+        "name_ru": "Очки виртуальной реальности",
+        "detail_url_ru": "https://asaxiy.uz/product/telefony-i-gadzhety/ochki-virtualnoy-realnosti"
+    },
+    {
+        "id": 43,
+        "name_uz": "Noutbuklar va aksessuarlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/kompyutery-i-orgtehnika/noutbuki",
+        "name_ru": "Ноутбуки и аксессуары",
+        "detail_url_ru": "https://asaxiy.uz/product/kompyutery-i-orgtehnika/noutbuki"
+    },
+    {
+        "id": 44,
+        "name_uz": "Axborot tashuvchilar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/kompyutery-i-orgtehnika/nositeli-informacii",
+        "name_ru": "Носители информации",
+        "detail_url_ru": "https://asaxiy.uz/product/kompyutery-i-orgtehnika/nositeli-informacii"
+    },
+    {
+        "id": 45,
+        "name_uz": "Sichqoncha va klaviaturalar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/kompyutery-i-orgtehnika/myshki-i-klaviatury",
+        "name_ru": "Клавиатуры и мыши",
+        "detail_url_ru": "https://asaxiy.uz/product/kompyutery-i-orgtehnika/myshki-i-klaviatury"
+    },
+    {
+        "id": 46,
+        "name_uz": "Monitorlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/kompyutery-i-orgtehnika/monitory",
+        "name_ru": "Мониторы",
+        "detail_url_ru": "https://asaxiy.uz/product/kompyutery-i-orgtehnika/monitory"
+    },
+    {
+        "id": 47,
+        "name_uz": "Modemlar, routerlar va tarmoq uskunalari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/kompyutery-i-orgtehnika/modemy-routery-i-setevoe-oborudovanie",
+        "name_ru": "Модемы, роутеры и сетевое оборудование",
+        "detail_url_ru": "https://asaxiy.uz/product/kompyutery-i-orgtehnika/modemy-routery-i-setevoe-oborudovanie"
+    },
+    {
+        "id": 48,
+        "name_uz": "Kompyuterlar va monobloklar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/kompyutery-i-orgtehnika/kompyuteri-i-monobloki",
+        "name_ru": "Компьютеры и моноблоки",
+        "detail_url_ru": "https://asaxiy.uz/product/kompyutery-i-orgtehnika/kompyuteri-i-monobloki"
+    },
+    {
+        "id": 49,
+        "name_uz": "Kompyuter jihozlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/kompyutery-i-orgtehnika/kompyuteri-i-komplektyushiye",
+        "name_ru": "Комплектующие",
+        "detail_url_ru": "https://asaxiy.uz/product/kompyutery-i-orgtehnika/kompyuteri-i-komplektyushiye"
+    },
+    {
+        "id": 50,
+        "name_uz": "Ofis jihozlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/kompyutery-i-orgtehnika/ofisnaya-tehnika",
+        "name_ru": "Офисная техника",
+        "detail_url_ru": "https://asaxiy.uz/product/kompyutery-i-orgtehnika/ofisnaya-tehnika"
+    },
+    {
+        "id": 51,
+        "name_uz": "Kameralar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/kompyutery-i-orgtehnika/kamery",
+        "name_ru": "Камеры",
+        "detail_url_ru": "https://asaxiy.uz/product/kompyutery-i-orgtehnika/kamery"
+    },
+    {
+        "id": 52,
+        "name_uz": "Kompyuter akustika vositalari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/kompyutery-i-orgtehnika/kompyuternaya-akustika",
+        "name_ru": "Компьютерная акустика",
+        "detail_url_ru": "https://asaxiy.uz/product/kompyutery-i-orgtehnika/kompyuternaya-akustika"
+    },
+    {
+        "id": 53,
+        "name_uz": "Kompyuter uchun aksessuarlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/kompyutery-i-orgtehnika/aksessuary-kompyutera",
+        "name_ru": "Аксессуары для компьютера",
+        "detail_url_ru": "https://asaxiy.uz/product/kompyutery-i-orgtehnika/aksessuary-kompyutera"
+    },
+    {
+        "id": 54,
+        "name_uz": "Geymer stullari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/kompyutery-i-orgtehnika/gejmerskie-kresla",
+        "name_ru": "Геймерские кресла",
+        "detail_url_ru": "https://asaxiy.uz/product/kompyutery-i-orgtehnika/gejmerskie-kresla"
+    },
+    {
+        "id": 55,
+        "name_uz": "Optik kabellar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/kompyutery-i-orgtehnika/opticheskie-kabeli",
+        "name_ru": "Оптические кабели",
+        "detail_url_ru": "https://asaxiy.uz/product/kompyutery-i-orgtehnika/opticheskie-kabeli"
+    },
+    {
+        "id": 56,
+        "name_uz": "Dasturiy ta’minot",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/kompyutery-i-orgtehnika/programmnoe-obespechenie",
+        "name_ru": "Программное обеспечение",
+        "detail_url_ru": "https://asaxiy.uz/product/kompyutery-i-orgtehnika/programmnoe-obespechenie"
+    },
+    {
+        "id": 67,
+        "name_uz": "Garnitura va quloqchinlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-gejmerov/garnituri-i-naushniki",
+        "name_ru": "Гарнитуры и наушники",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-gejmerov/garnituri-i-naushniki"
+    },
+    {
+        "id": 68,
+        "name_uz": "O‘yin klaviaturalari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-gejmerov/igrovie-klaviaturi",
+        "name_ru": "Игровые клавиатуры",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-gejmerov/igrovie-klaviaturi"
+    },
+    {
+        "id": 69,
+        "name_uz": "O‘yin sichqonchalari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-gejmerov/igrovie-mishi",
+        "name_ru": "Игровые мыши",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-gejmerov/igrovie-mishi"
+    },
+    {
+        "id": 70,
+        "name_uz": "O‘yin kreslolari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-gejmerov/igrovie-kresla",
+        "name_ru": "Игровые кресла",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-gejmerov/igrovie-kresla"
+    },
+    {
+        "id": 71,
+        "name_uz": "O‘yin pristavkalari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-gejmerov/igrovie-konsoli",
+        "name_ru": "Игровые приставки",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-gejmerov/igrovie-konsoli"
+    },
+    {
+        "id": 72,
+        "name_uz": "Geympadlar va joystiklar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-gejmerov/geympadi-i-djoystiki",
+        "name_ru": "Геймпады и джойстики",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-gejmerov/geympadi-i-djoystiki"
+    },
+    {
+        "id": 73,
+        "name_uz": "Kabellar uchun ushlagichlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-gejmerov/derjateli",
+        "name_ru": "Держатели для кабелей",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-gejmerov/derjateli"
+    },
+    {
+        "id": 74,
+        "name_uz": "Himoya ko‘zoynaklari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-gejmerov/zashitnie-ochki",
+        "name_ru": "Защитные очки",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-gejmerov/zashitnie-ochki"
+    },
+    {
+        "id": 75,
+        "name_uz": "Quloqchinlar uchun tagliklar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-gejmerov/podstavki-dlya-naushnikov",
+        "name_ru": "Подставки для наушников",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-gejmerov/podstavki-dlya-naushnikov"
+    },
+    {
+        "id": 76,
+        "name_uz": "O'yin stollari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-gejmerov/igrovye-stoly",
+        "name_ru": "Игровые столы",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-gejmerov/igrovye-stoly"
+    },
+    {
+        "id": 77,
+        "name_uz": "Grafik planshetlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-gejmerov/graficheskie-planshety",
+        "name_ru": "Графические планшеты",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-gejmerov/graficheskie-planshety"
+    },
+    {
+        "id": 91,
+        "name_uz": "Oshxona uchun katta texnika",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/bytovaya-tehnika/krupnaya-tehnika-dlya-kuhni",
+        "name_ru": "Крупная техника для кухни",
+        "detail_url_ru": "https://asaxiy.uz/product/bytovaya-tehnika/krupnaya-tehnika-dlya-kuhni"
+    },
+    {
+        "id": 92,
+        "name_uz": "Uy uchun texnika",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/bytovaya-tehnika/tehnika-dlya-doma-2",
+        "name_ru": "Техника для дома",
+        "detail_url_ru": "https://asaxiy.uz/product/bytovaya-tehnika/tehnika-dlya-doma-2"
+    },
+    {
+        "id": 93,
+        "name_uz": "Oshxona uchun texnika",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/bytovaya-tehnika/kuhnya",
+        "name_ru": "Техника для кухни",
+        "detail_url_ru": "https://asaxiy.uz/product/bytovaya-tehnika/kuhnya"
+    },
+    {
+        "id": 94,
+        "name_uz": "Go‘zallik va salomatlik uchun texnika",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/bytovaya-tehnika/texniki-dlya-krasota-i-zdorove",
+        "name_ru": "Техника для красоты и здоровья",
+        "detail_url_ru": "https://asaxiy.uz/product/bytovaya-tehnika/texniki-dlya-krasota-i-zdorove"
+    },
+    {
+        "id": 115,
+        "name_uz": "Televizorlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/televizory-video-i-audio/televizory",
+        "name_ru": "Телевизоры",
+        "detail_url_ru": "https://asaxiy.uz/product/televizory-video-i-audio/televizory"
+    },
+    {
+        "id": 116,
+        "name_uz": "Smart TV uchun qo‘shimcha komponentlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/televizory-video-i-audio/pristavki-smart-tv",
+        "name_ru": "Приставки Smart TV",
+        "detail_url_ru": "https://asaxiy.uz/product/televizory-video-i-audio/pristavki-smart-tv"
+    },
+    {
+        "id": 117,
+        "name_uz": "Uy kinoteatrlari va audio tizimlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/televizory-video-i-audio/domashnij-kinoteatr",
+        "name_ru": "Домашние кинотеатры и аудиосистемы",
+        "detail_url_ru": "https://asaxiy.uz/product/televizory-video-i-audio/domashnij-kinoteatr"
+    },
+    {
+        "id": 118,
+        "name_uz": "Televizion antennalar va aksessuarlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/televizory-video-i-audio/tv-antenny-i-aksessuary",
+        "name_ru": "ТВ Антенны и аксессуары",
+        "detail_url_ru": "https://asaxiy.uz/product/televizory-video-i-audio/tv-antenny-i-aksessuary"
+    },
+    {
+        "id": 119,
+        "name_uz": "Televizor ilgich",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/televizory-video-i-audio/kronshtejny",
+        "name_ru": "Кронштейны",
+        "detail_url_ru": "https://asaxiy.uz/product/televizory-video-i-audio/kronshtejny"
+    },
+    {
+        "id": 120,
+        "name_uz": "Televizor tyunerlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/televizory-video-i-audio/tv-tyunery",
+        "name_ru": "ТВ тюнеры",
+        "detail_url_ru": "https://asaxiy.uz/product/televizory-video-i-audio/tv-tyunery"
+    },
+    {
+        "id": 121,
+        "name_uz": "Masofaviy boshkaruv pultlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/televizory-video-i-audio/pulty-du",
+        "name_ru": "Пульты ДУ",
+        "detail_url_ru": "https://asaxiy.uz/product/televizory-video-i-audio/pulty-du"
+    },
+    {
+        "id": 122,
+        "name_uz": "Televizor kabellari va adapterlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/televizory-video-i-audio/kabeli-perexodniki-tv",
+        "name_ru": "ТВ кабели и переходники",
+        "detail_url_ru": "https://asaxiy.uz/product/televizory-video-i-audio/kabeli-perexodniki-tv"
+    },
+    {
+        "id": 123,
+        "name_uz": "Raqamli televideniye",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/televizory-video-i-audio/cifrovoe-televidenie",
+        "name_ru": "Цифровое телевидение",
+        "detail_url_ru": "https://asaxiy.uz/product/televizory-video-i-audio/cifrovoe-televidenie"
+    },
+    {
+        "id": 138,
+        "name_uz": "Pishirish uchun idishlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/posuda/posuda-dlya-prigotovleniya",
+        "name_ru": "Посуда для кухни",
+        "detail_url_ru": "https://asaxiy.uz/product/posuda/posuda-dlya-prigotovleniya"
+    },
+    {
+        "id": 139,
+        "name_uz": "Servirovka",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/posuda/servirovka",
+        "name_ru": "Посуда для столовой",
+        "detail_url_ru": "https://asaxiy.uz/product/posuda/servirovka"
+    },
+    {
+        "id": 140,
+        "name_uz": "Mahsulot saqlagichlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/posuda/hranenie",
+        "name_ru": "Хранение",
+        "detail_url_ru": "https://asaxiy.uz/product/posuda/hranenie"
+    },
+    {
+        "id": 141,
+        "name_uz": "Oshxona jihozlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/posuda/kuxonniye-prinadlejnosti",
+        "name_ru": "Кухонные принадлежности",
+        "detail_url_ru": "https://asaxiy.uz/product/posuda/kuxonniye-prinadlejnosti"
+    },
+    {
+        "id": 142,
+        "name_uz": "Idish-tovoq quritgichlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/posuda/sushilki-dlya-posudi",
+        "name_ru": "Сушилки для посуды",
+        "detail_url_ru": "https://asaxiy.uz/product/posuda/sushilki-dlya-posudi"
+    },
+    {
+        "id": 143,
+        "name_uz": "1000 xil mayda-chuydalar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/posuda/1000-melochey",
+        "name_ru": "1000 мелочей",
+        "detail_url_ru": "https://asaxiy.uz/product/posuda/1000-melochey"
+    },
+    {
+        "id": 144,
+        "name_uz": "Suv filtrlari va suv yumshatgichlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/posuda/filtri-i-umyagchiteli-dlya-vodi",
+        "name_ru": "Фильтры и умягчители для воды",
+        "detail_url_ru": "https://asaxiy.uz/product/posuda/filtri-i-umyagchiteli-dlya-vodi"
+    },
+    {
+        "id": 162,
+        "name_uz": "Yumshoq mebel",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/myagkaya-mebel",
+        "name_ru": "Мягкая мебель",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/myagkaya-mebel"
+    },
+    {
+        "id": 163,
+        "name_uz": "Oshxona mebellari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/kuxonnaya-mebel",
+        "name_ru": "Кухонная мебель",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/kuxonnaya-mebel"
+    },
+    {
+        "id": 164,
+        "name_uz": "Mehmonxona mebellari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/gostinaya-mebel",
+        "name_ru": "Гостиная мебель",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/gostinaya-mebel"
+    },
+    {
+        "id": 165,
+        "name_uz": "Ofis mebellari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/ofisnaya-mebel",
+        "name_ru": "Офисная мебель",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/ofisnaya-mebel"
+    },
+    {
+        "id": 166,
+        "name_uz": "Kresla",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/kreslo",
+        "name_ru": "Кресла",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/kreslo"
+    },
+    {
+        "id": 167,
+        "name_uz": "Shkaflar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/shkafi",
+        "name_ru": "Шкафы",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/shkafi"
+    },
+    {
+        "id": 168,
+        "name_uz": "Hovli uchun mebellar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/sadovaya-mebel",
+        "name_ru": "Комплекты садовой мебели",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/sadovaya-mebel"
+    },
+    {
+        "id": 169,
+        "name_uz": "Xorijiy mebellar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/importnaya-mebel",
+        "name_ru": "Импортная мебель",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/importnaya-mebel"
+    },
+    {
+        "id": 170,
+        "name_uz": "Har turdagi mebellar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/razlichnaya-mebel",
+        "name_ru": "Различная мебель",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/razlichnaya-mebel"
+    },
+    {
+        "id": 171,
+        "name_uz": "Stol va stullar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/stoli-i-stulya",
+        "name_ru": "Столы и Стулья",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/stoli-i-stulya"
+    },
+    {
+        "id": 172,
+        "name_uz": "Krovatlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/odinarniy-krovati",
+        "name_ru": "Кровати",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/odinarniy-krovati"
+    },
+    {
+        "id": 173,
+        "name_uz": "Yotoqxona mebellari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/spalnaya-mebel",
+        "name_ru": "Спальная мебель",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/spalnaya-mebel"
+    },
+    {
+        "id": 174,
+        "name_uz": "Bolalar mebellari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/detskaya-mebel",
+        "name_ru": "Детская мебель",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/detskaya-mebel"
+    },
+    {
+        "id": 175,
+        "name_uz": "Buyurtmaga bolalar mebellari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/detskaya-mebel-nazakaz",
+        "name_ru": "Детская мебель на заказ",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/detskaya-mebel-nazakaz"
+    },
+    {
+        "id": 176,
+        "name_uz": "TV podstavka",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/tv-podstavka",
+        "name_ru": "ТВ подставка",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/tv-podstavka"
+    },
+    {
+        "id": 177,
+        "name_uz": "Buyurtmaga yumshoq mebellar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/myagkaya-mebel-nazakaz-1",
+        "name_ru": "Мягкая мебель на заказ",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/myagkaya-mebel-nazakaz-1"
+    },
+    {
+        "id": 178,
+        "name_uz": "Buyurtmaga mebellar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/mebel/mebel-na-zakaz",
+        "name_ru": "Мебель на заказ",
+        "detail_url_ru": "https://asaxiy.uz/product/mebel/mebel-na-zakaz"
+    },
+    {
+        "id": 180,
+        "name_uz": "Basseynlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/sport-i-otdyh/bassejny",
+        "name_ru": "Бассейны",
+        "detail_url_ru": "https://asaxiy.uz/product/sport-i-otdyh/bassejny"
+    },
+    {
+        "id": 181,
+        "name_uz": "Sport buyumlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/sport-i-otdyh/sport-tovary",
+        "name_ru": "Спорт товары",
+        "detail_url_ru": "https://asaxiy.uz/product/sport-i-otdyh/sport-tovary"
+    },
+    {
+        "id": 182,
+        "name_uz": "Stol o‘yinlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/sport-i-otdyh/nastolniye-igri",
+        "name_ru": "Настольные игры",
+        "detail_url_ru": "https://asaxiy.uz/product/sport-i-otdyh/nastolniye-igri"
+    },
+    {
+        "id": 183,
+        "name_uz": "Velosipedlar, samokatlar, rolikli konkilar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/sport-i-otdyh/velosipedi-i-samokati",
+        "name_ru": "Велосипеды, самокаты, роликовые коньки",
+        "detail_url_ru": "https://asaxiy.uz/product/sport-i-otdyh/velosipedi-i-samokati"
+    },
+    {
+        "id": 184,
+        "name_uz": "Tennis",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/sport-i-otdyh/tennis",
+        "name_ru": "Теннис",
+        "detail_url_ru": "https://asaxiy.uz/product/sport-i-otdyh/tennis"
+    },
+    {
+        "id": 185,
+        "name_uz": "Basketbol",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/sport-i-otdyh/basketbol",
+        "name_ru": "Баскетбол",
+        "detail_url_ru": "https://asaxiy.uz/product/sport-i-otdyh/basketbol"
+    },
+    {
+        "id": 186,
+        "name_uz": "Futbol buyumlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/sport-i-otdyh/futbol",
+        "name_ru": "Товары для футбола",
+        "detail_url_ru": "https://asaxiy.uz/product/sport-i-otdyh/futbol"
+    },
+    {
+        "id": 187,
+        "name_uz": "Sport poyafzali",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/sport-i-otdyh/sportivnaya-obuv",
+        "name_ru": "Спортивная обувь",
+        "detail_url_ru": "https://asaxiy.uz/product/sport-i-otdyh/sportivnaya-obuv"
+    },
+    {
+        "id": 188,
+        "name_uz": "Sport kiyimlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/sport-i-otdyh/sportivnye-odezhdy",
+        "name_ru": "Спортивная одежда",
+        "detail_url_ru": "https://asaxiy.uz/product/sport-i-otdyh/sportivnye-odezhdy"
+    },
+    {
+        "id": 189,
+        "name_uz": "Giroskuterlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/sport-i-otdyh/giroskutery",
+        "name_ru": "Гироскутеры",
+        "detail_url_ru": "https://asaxiy.uz/product/sport-i-otdyh/giroskutery"
+    },
+    {
+        "id": 190,
+        "name_uz": "Voleybol uchun mahsulot",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/sport-i-otdyh/voleibol",
+        "name_ru": "Товар для волейболу",
+        "detail_url_ru": "https://asaxiy.uz/product/sport-i-otdyh/voleibol"
+    },
+    {
+        "id": 191,
+        "name_uz": "Yoga uchun hamma narsa",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/sport-i-otdyh/ioga",
+        "name_ru": "Йога",
+        "detail_url_ru": "https://asaxiy.uz/product/sport-i-otdyh/ioga"
+    },
+    {
+        "id": 192,
+        "name_uz": "Chodirlar, tentlar va chodirlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/sport-i-otdyh/palatki-tenty-i-shatry",
+        "name_ru": "Палатки, тенты и шатры",
+        "detail_url_ru": "https://asaxiy.uz/product/sport-i-otdyh/palatki-tenty-i-shatry"
+    },
+    {
+        "id": 193,
+        "name_uz": "Спортивные сумки и рюкзаки",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/sport-i-otdyh/sportivnye-sumki-i-ryukzaki",
+        "name_ru": "Спортивные сумки и рюкзаки",
+        "detail_url_ru": "https://asaxiy.uz/product/sport-i-otdyh/sportivnye-sumki-i-ryukzaki"
+    },
+    {
+        "id": 202,
+        "name_uz": "Videokuzatuv uskunalari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/videonablyudenie",
+        "name_ru": "Видеонаблюдение",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/videonablyudenie"
+    },
+    {
+        "id": 203,
+        "name_uz": "Xavfsizlik",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/bezopasnost",
+        "name_ru": "Безопасность",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/bezopasnost"
+    },
+    {
+        "id": 204,
+        "name_uz": "Ofis kreslolari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/ofisnye-kresla",
+        "name_ru": "Офисные кресла",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/ofisnye-kresla"
+    },
+    {
+        "id": 205,
+        "name_uz": "Kuchlanish stabilizatorlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/stabilizatory-napryazheniya",
+        "name_ru": "Стабилизаторы напряжения",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/stabilizatory-napryazheniya"
+    },
+    {
+        "id": 206,
+        "name_uz": "Xiaomi gadjetlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/gadzhety-xiaomi",
+        "name_ru": "Гаджеты Xiaomi",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/gadzhety-xiaomi"
+    },
+    {
+        "id": 207,
+        "name_uz": "Uy uchun gadjetlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/tehnika-dlya-doma",
+        "name_ru": "Гаджеты для дома",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/tehnika-dlya-doma"
+    },
+    {
+        "id": 208,
+        "name_uz": "Narvon va zinapoyalar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/lestnici-i-stremyanki",
+        "name_ru": "Лестницы и стремянки",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/lestnici-i-stremyanki"
+    },
+    {
+        "id": 209,
+        "name_uz": "Tibbiyotga oid mahsulotlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/gigienicheskietovari",
+        "name_ru": "Медицинские изделия и расходные материалы",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/gigienicheskietovari"
+    },
+    {
+        "id": 210,
+        "name_uz": "Oynalar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/zerkala",
+        "name_ru": "Зеркала",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/zerkala"
+    },
+    {
+        "id": 211,
+        "name_uz": "Kiyim ilgichlar va kiyim uchun organayzerlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/veshalki-i-organayzeri-dlya-veshey",
+        "name_ru": "Вешалки и органайзеры для вещей",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/veshalki-i-organayzeri-dlya-veshey"
+    },
+    {
+        "id": 212,
+        "name_uz": "Bog‘ uchun jihozlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/sadoviy-inventar",
+        "name_ru": "Садовый инвентарь",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/sadoviy-inventar"
+    },
+    {
+        "id": 213,
+        "name_uz": "Ta’mir uchun mahsulotlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/vse-dlya-remonta",
+        "name_ru": "Все для ремонта",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/vse-dlya-remonta"
+    },
+    {
+        "id": 214,
+        "name_uz": "Yuqori bosimli yuvish mashinalari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/moiki-vysokogo-davleniya",
+        "name_ru": "Мойки высокого давления",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/moiki-vysokogo-davleniya"
+    },
+    {
+        "id": 215,
+        "name_uz": "Fonarlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/fonari",
+        "name_ru": "Фонари",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/fonari"
+    },
+    {
+        "id": 216,
+        "name_uz": "Yig‘im-terim mashinalari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/uborochnye-mashiny",
+        "name_ru": "Уборочные машины",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/uborochnye-mashiny"
+    },
+    {
+        "id": 217,
+        "name_uz": "Suv nasoslari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/dlya-doma/vodyanye-nasosy",
+        "name_ru": "Водяные насосы",
+        "detail_url_ru": "https://asaxiy.uz/product/dlya-doma/vodyanye-nasosy"
+    },
+    {
+        "id": 218,
+        "name_uz": "Shinalar va disklar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/instrumenty-i-avtotovary/shiny-i-diski",
+        "name_ru": "Шины и диски",
+        "detail_url_ru": "https://asaxiy.uz/product/instrumenty-i-avtotovary/shiny-i-diski"
+    },
+    {
+        "id": 219,
+        "name_uz": "Avtomagnitolalar va avtomobil akustikasi",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/instrumenty-i-avtotovary/avtomagnitoly-i-avtoakustika",
+        "name_ru": "Автомагнитолы и Автоакустика",
+        "detail_url_ru": "https://asaxiy.uz/product/instrumenty-i-avtotovary/avtomagnitoly-i-avtoakustika"
+    },
+    {
+        "id": 220,
+        "name_uz": "Radar - detektorlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/instrumenty-i-avtotovary/radar-detektory",
+        "name_ru": "Радар  -  детекторы",
+        "detail_url_ru": "https://asaxiy.uz/product/instrumenty-i-avtotovary/radar-detektory"
+    },
+    {
+        "id": 221,
+        "name_uz": "Avtomobil videoregistratorlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/instrumenty-i-avtotovary/avtomobilnye-videoregistratory",
+        "name_ru": "Автомобильные видеорегистраторы",
+        "detail_url_ru": "https://asaxiy.uz/product/instrumenty-i-avtotovary/avtomobilnye-videoregistratory"
+    },
+    {
+        "id": 222,
+        "name_uz": "Avtosignalizatsiyalar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/instrumenty-i-avtotovary/avtosignalizacii",
+        "name_ru": "Автосигнализации",
+        "detail_url_ru": "https://asaxiy.uz/product/instrumenty-i-avtotovary/avtosignalizacii"
+    },
+    {
+        "id": 223,
+        "name_uz": "Akkumulyatorlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/instrumenty-i-avtotovary/akkumulyatory",
+        "name_ru": "Аккумуляторы",
+        "detail_url_ru": "https://asaxiy.uz/product/instrumenty-i-avtotovary/akkumulyatory"
+    },
+    {
+        "id": 224,
+        "name_uz": "Avtomobil uchun aksessuarlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/instrumenty-i-avtotovary/aksessuary-dlya-avto",
+        "name_ru": "Аксессуары для авто",
+        "detail_url_ru": "https://asaxiy.uz/product/instrumenty-i-avtotovary/aksessuary-dlya-avto"
+    },
+    {
+        "id": 225,
+        "name_uz": "Yostiq va suyanchiqlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/instrumenty-i-avtotovary/podushki-i-spinki",
+        "name_ru": "Подушки и спинки",
+        "detail_url_ru": "https://asaxiy.uz/product/instrumenty-i-avtotovary/podushki-i-spinki"
+    },
+    {
+        "id": 226,
+        "name_uz": "Avtomobillar uchun chexollar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/instrumenty-i-avtotovary/chehly-dlya-avtomobilei",
+        "name_ru": "Чехлы для автомобилей",
+        "detail_url_ru": "https://asaxiy.uz/product/instrumenty-i-avtotovary/chehly-dlya-avtomobilei"
+    },
+    {
+        "id": 227,
+        "name_uz": "Ko‘chma changyutgichlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/instrumenty-i-avtotovary/portativnye-pylesosy",
+        "name_ru": "Портативные пылесосы",
+        "detail_url_ru": "https://asaxiy.uz/product/instrumenty-i-avtotovary/portativnye-pylesosy"
+    },
+    {
+        "id": 228,
+        "name_uz": "Avtomobil kompressorlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/instrumenty-i-avtotovary/avtomobilnye-kompressory",
+        "name_ru": "Автомобильные компрессоры",
+        "detail_url_ru": "https://asaxiy.uz/product/instrumenty-i-avtotovary/avtomobilnye-kompressory"
+    },
+    {
+        "id": 229,
+        "name_uz": "Navigatorlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/instrumenty-i-avtotovary/navigatory",
+        "name_ru": "Навигаторы",
+        "detail_url_ru": "https://asaxiy.uz/product/instrumenty-i-avtotovary/navigatory"
+    },
+    {
+        "id": 230,
+        "name_uz": "Yengil avtomobillar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/instrumenty-i-avtotovary/legkovye-avtomobili",
+        "name_ru": "Легковые автомобили",
+        "detail_url_ru": "https://asaxiy.uz/product/instrumenty-i-avtotovary/legkovye-avtomobili"
+    },
+    {
+        "id": 231,
+        "name_uz": "Датчики давления шин",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/instrumenty-i-avtotovary/datchiki-davleniya-shin",
+        "name_ru": "Датчики давления шин",
+        "detail_url_ru": "https://asaxiy.uz/product/instrumenty-i-avtotovary/datchiki-davleniya-shin"
+    },
+    {
+        "id": 242,
+        "name_uz": "Soyabonlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/suvi/zonty",
+        "name_ru": "Зонты",
+        "detail_url_ru": "https://asaxiy.uz/product/suvi/zonty"
+    },
+    {
+        "id": 243,
+        "name_uz": "Musulmonlar uchun sovg‘alar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/suvi/musulmankiye",
+        "name_ru": "Идеи подарков для мусульман",
+        "detail_url_ru": "https://asaxiy.uz/product/suvi/musulmankiye"
+    },
+    {
+        "id": 244,
+        "name_uz": "Kolleksiya o‘yinchoqlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/suvi/kollektsionnie-igrushki",
+        "name_ru": "Коллекционные игрушки",
+        "detail_url_ru": "https://asaxiy.uz/product/suvi/kollektsionnie-igrushki"
+    },
+    {
+        "id": 245,
+        "name_uz": "Ijod",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/suvi/tvorchestvo",
+        "name_ru": "Творчество",
+        "detail_url_ru": "https://asaxiy.uz/product/suvi/tvorchestvo"
+    },
+    {
+        "id": 246,
+        "name_uz": "Гаджеты",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/suvi/gadzhety",
+        "name_ru": "Гаджеты",
+        "detail_url_ru": "https://asaxiy.uz/product/suvi/gadzhety"
+    },
+    {
+        "id": 247,
+        "name_uz": "Kitob",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/suvi/knigi-2",
+        "name_ru": "Книги",
+        "detail_url_ru": "https://asaxiy.uz/product/suvi/knigi-2"
+    },
+    {
+        "id": 251,
+        "name_uz": "Чемоданы и дорожные сумки",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/odejda-obuv-i-aksessuari/sumki-rukzaki",
+        "name_ru": "Чемоданы и дорожные сумки",
+        "detail_url_ru": "https://asaxiy.uz/product/odejda-obuv-i-aksessuari/sumki-rukzaki"
+    },
+    {
+        "id": 252,
+        "name_uz": "Erkaklar uchun",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/odejda-obuv-i-aksessuari/dlya",
+        "name_ru": "Для мужчин",
+        "detail_url_ru": "https://asaxiy.uz/product/odejda-obuv-i-aksessuari/dlya"
+    },
+    {
+        "id": 253,
+        "name_uz": "Ayollar uchun",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/odejda-obuv-i-aksessuari/dlya-jenshin",
+        "name_ru": "Для женщин",
+        "detail_url_ru": "https://asaxiy.uz/product/odejda-obuv-i-aksessuari/dlya-jenshin"
+    },
+    {
+        "id": 254,
+        "name_uz": "O‘g‘il bolalar uchun",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/odejda-obuv-i-aksessuari/dlya-malchikov",
+        "name_ru": "Для мальчиков",
+        "detail_url_ru": "https://asaxiy.uz/product/odejda-obuv-i-aksessuari/dlya-malchikov"
+    },
+    {
+        "id": 255,
+        "name_uz": "Qizlar uchun",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/odejda-obuv-i-aksessuari/dlya-devochek",
+        "name_ru": "Для девочек",
+        "detail_url_ru": "https://asaxiy.uz/product/odejda-obuv-i-aksessuari/dlya-devochek"
+    },
+    {
+        "id": 256,
+        "name_uz": "Kauchuk tuflilar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/odejda-obuv-i-aksessuari/rezinovye-tapochki",
+        "name_ru": "Резиновые тапочки",
+        "detail_url_ru": "https://asaxiy.uz/product/odejda-obuv-i-aksessuari/rezinovye-tapochki"
+    },
+    {
+        "id": 257,
+        "name_uz": "Kiyimlarni parvarish qilish uchun",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/odejda-obuv-i-aksessuari/dlya-uhoda-za-odejdoy",
+        "name_ru": "Для ухода за одеждой",
+        "detail_url_ru": "https://asaxiy.uz/product/odejda-obuv-i-aksessuari/dlya-uhoda-za-odejdoy"
+    },
+    {
+        "id": 266,
+        "name_uz": "Bolalar aravachalari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/detskiye-tovari/kolyaski",
+        "name_ru": "Коляски",
+        "detail_url_ru": "https://asaxiy.uz/product/detskiye-tovari/kolyaski"
+    },
+    {
+        "id": 267,
+        "name_uz": "Yumshoq o‘yinchoqlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/detskiye-tovari/myagkie-igrushki",
+        "name_ru": "Мягкие игрушки",
+        "detail_url_ru": "https://asaxiy.uz/product/detskiye-tovari/myagkie-igrushki"
+    },
+    {
+        "id": 268,
+        "name_uz": "Konstruktorlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/detskiye-tovari/konstruktory",
+        "name_ru": "Конструкторы",
+        "detail_url_ru": "https://asaxiy.uz/product/detskiye-tovari/konstruktory"
+    },
+    {
+        "id": 269,
+        "name_uz": "Yuqori stullar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/detskiye-tovari/stulchiki-dlya-kormleniya",
+        "name_ru": "Стульчики для кормления",
+        "detail_url_ru": "https://asaxiy.uz/product/detskiye-tovari/stulchiki-dlya-kormleniya"
+    },
+    {
+        "id": 270,
+        "name_uz": "Bolalar elektr avtomobili",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/detskiye-tovari/detskaya-mashina",
+        "name_ru": "Детские электромобили",
+        "detail_url_ru": "https://asaxiy.uz/product/detskiye-tovari/detskaya-mashina"
+    },
+    {
+        "id": 271,
+        "name_uz": "Bolalar Mototsikli",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/detskiye-tovari/detskiy-motocikl",
+        "name_ru": "Детский мотоцикл",
+        "detail_url_ru": "https://asaxiy.uz/product/detskiye-tovari/detskiy-motocikl"
+    },
+    {
+        "id": 272,
+        "name_uz": "Ikki oyoqli velosiped",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/detskiye-tovari/velosiped-dvunogiy",
+        "name_ru": "Велосипед двуногий",
+        "detail_url_ru": "https://asaxiy.uz/product/detskiye-tovari/velosiped-dvunogiy"
+    },
+    {
+        "id": 273,
+        "name_uz": "Uch oyoqli velosiped",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/detskiye-tovari/trehkolesnyy-velosiped",
+        "name_ru": "Трехколесный велосипед",
+        "detail_url_ru": "https://asaxiy.uz/product/detskiye-tovari/trehkolesnyy-velosiped"
+    },
+    {
+        "id": 274,
+        "name_uz": "Chaqaloq yurdirgichlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/detskiye-tovari/hodulka-detskiy",
+        "name_ru": "Ходунки Детские",
+        "detail_url_ru": "https://asaxiy.uz/product/detskiye-tovari/hodulka-detskiy"
+    },
+    {
+        "id": 275,
+        "name_uz": "Velo aravacha",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/detskiye-tovari/velo-kolyaska",
+        "name_ru": "Вело Коляска",
+        "detail_url_ru": "https://asaxiy.uz/product/detskiye-tovari/velo-kolyaska"
+    },
+    {
+        "id": 276,
+        "name_uz": "O'yinchoqlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/detskiye-tovari/igrushki",
+        "name_ru": "Игрушки",
+        "detail_url_ru": "https://asaxiy.uz/product/detskiye-tovari/igrushki"
+    },
+    {
+        "id": 281,
+        "name_uz": "Yuzni parvarishlash uchun",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/krasota-i-zdorove/uhod-za-licom",
+        "name_ru": "Средства по уходу за лицом",
+        "detail_url_ru": "https://asaxiy.uz/product/krasota-i-zdorove/uhod-za-licom"
+    },
+    {
+        "id": 282,
+        "name_uz": "Sochni parvarish qilish",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/krasota-i-zdorove/uhod-za-volosami",
+        "name_ru": "Уход за волосами",
+        "detail_url_ru": "https://asaxiy.uz/product/krasota-i-zdorove/uhod-za-volosami"
+    },
+    {
+        "id": 283,
+        "name_uz": "Tana parvarishi uchun",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/krasota-i-zdorove/uhod-za-telom-2",
+        "name_ru": "Уход за телом",
+        "detail_url_ru": "https://asaxiy.uz/product/krasota-i-zdorove/uhod-za-telom-2"
+    },
+    {
+        "id": 284,
+        "name_uz": "Shifobaxsh vositalar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/krasota-i-zdorove/lechebnye-sredstva",
+        "name_ru": "Лечебные средства",
+        "detail_url_ru": "https://asaxiy.uz/product/krasota-i-zdorove/lechebnye-sredstva"
+    },
+    {
+        "id": 285,
+        "name_uz": "Makiyaj",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/krasota-i-zdorove/makiyazh",
+        "name_ru": "Макияж",
+        "detail_url_ru": "https://asaxiy.uz/product/krasota-i-zdorove/makiyazh"
+    },
+    {
+        "id": 286,
+        "name_uz": "Parfyumeriya",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/krasota-i-zdorove/parfyumeriya",
+        "name_ru": "Парфюмерия",
+        "detail_url_ru": "https://asaxiy.uz/product/krasota-i-zdorove/parfyumeriya"
+    },
+    {
+        "id": 287,
+        "name_uz": "To‘plamlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/krasota-i-zdorove/nabory-2",
+        "name_ru": "Наборы",
+        "detail_url_ru": "https://asaxiy.uz/product/krasota-i-zdorove/nabory-2"
+    },
+    {
+        "id": 288,
+        "name_uz": "Dorixona",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/krasota-i-zdorove/apteka",
+        "name_ru": "Аптека",
+        "detail_url_ru": "https://asaxiy.uz/product/krasota-i-zdorove/apteka"
+    },
+    {
+        "id": 291,
+        "name_uz": "Elektr isitgichlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/klimaticheskaya-tehnika/elektroobogrevateli-i-teplovye-zavesy",
+        "name_ru": "Электрические обогреватели",
+        "detail_url_ru": "https://asaxiy.uz/product/klimaticheskaya-tehnika/elektroobogrevateli-i-teplovye-zavesy"
+    },
+    {
+        "id": 292,
+        "name_uz": "Suv isitgichlari",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/klimaticheskaya-tehnika/vodonagrevateli",
+        "name_ru": "Водонагреватели",
+        "detail_url_ru": "https://asaxiy.uz/product/klimaticheskaya-tehnika/vodonagrevateli"
+    },
+    {
+        "id": 293,
+        "name_uz": "Namlagichlar va havo tozalagichlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/klimaticheskaya-tehnika/uvlazhniteli-i-vozduhoochistiteli",
+        "name_ru": "Увлажнители воздуха и воздухоочистители",
+        "detail_url_ru": "https://asaxiy.uz/product/klimaticheskaya-tehnika/uvlazhniteli-i-vozduhoochistiteli"
+    },
+    {
+        "id": 294,
+        "name_uz": "Konditsionerlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/klimaticheskaya-tehnika/kondicionery",
+        "name_ru": "Кондиционеры",
+        "detail_url_ru": "https://asaxiy.uz/product/klimaticheskaya-tehnika/kondicionery"
+    },
+    {
+        "id": 295,
+        "name_uz": "Ventilyatorlar",
+        "detail_url_uz": "https://asaxiy.uz/uz/product/klimaticheskaya-tehnika/ventilyatory",
+        "name_ru": "Вентиляторы",
+        "detail_url_ru": "https://asaxiy.uz/product/klimaticheskaya-tehnika/ventilyatory"
+    }
+]
